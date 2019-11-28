@@ -1,3 +1,8 @@
+'''
+This is a code for finding "pi" number using monte carlo method. 
+In this code there is a scatter animated plot. Also you can find out useful tips on how to update texts in animations.
+'''
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
